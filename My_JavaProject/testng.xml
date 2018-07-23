@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.com.TestNG_Class._00MyTestNGProgram"/>
+      <class name="com.com.TestNG_Class._01TestNGAnnotation"/>
+      <class name="com.com.TestNG_Class._02TestNGMultiTest"/>
+      <class name="com.com.TestNG_Class._03TestNGPriorities"/>
+      <class name="com.com.TestNG_Class._04AnnotationWithTwoTest"/>
+      <class name="com.com.TestNG_Class._05TestWithGroup"/>
+      <class name="com.com.TestNG_Class._06CompleteTestNGProgram"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

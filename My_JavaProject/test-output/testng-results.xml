@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="93" started-at="2018-05-07T14:45:17Z" finished-at="2018-05-07T14:45:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="93" started-at="2018-05-07T14:45:17Z" finished-at="2018-05-07T14:45:17Z">
+      <class name="com.com.TestNG_Class._03TestNGPriorities">
+        <test-method status="PASS" signature="b()[pri:0, instance:com.com.TestNG_Class._03TestNGPriorities@4abdb505]" name="b" duration-ms="15" started-at="2018-05-07T14:45:17Z" finished-at="2018-05-07T14:45:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b -->
+        <test-method status="PASS" signature="f()[pri:0, instance:com.com.TestNG_Class._03TestNGPriorities@4abdb505]" name="f" duration-ms="2" started-at="2018-05-07T14:45:17Z" finished-at="2018-05-07T14:45:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="t()[pri:0, instance:com.com.TestNG_Class._03TestNGPriorities@4abdb505]" name="t" duration-ms="1" started-at="2018-05-07T14:45:17Z" finished-at="2018-05-07T14:45:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- t -->
+      </class> <!-- com.com.TestNG_Class._03TestNGPriorities -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
