@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="69747" started-at="2018-05-11T16:50:08Z" finished-at="2018-05-11T16:51:18Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="69747" started-at="2018-05-11T16:50:08Z" finished-at="2018-05-11T16:51:18Z">
+      <class name="com.projectexecution.VidalEnrollment_TS_01">
+        <test-method status="PASS" signature="verifyLoginTabErrorMSG_TC01()[pri:0, instance:com.projectexecution.VidalEnrollment_TS_01@27f674d]" name="verifyLoginTabErrorMSG_TC01" duration-ms="15112" started-at="2018-05-11T22:20:08Z" finished-at="2018-05-11T22:20:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginTabErrorMSG_TC01 -->
+        <test-method status="PASS" signature="verifyNewUserLnk_TC02()[pri:0, instance:com.projectexecution.VidalEnrollment_TS_01@27f674d]" name="verifyNewUserLnk_TC02" duration-ms="22380" started-at="2018-05-11T22:20:24Z" finished-at="2018-05-11T22:20:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNewUserLnk_TC02 -->
+        <test-method status="PASS" signature="verifyHealthCareButtons_Tc03()[pri:0, instance:com.projectexecution.VidalEnrollment_TS_01@27f674d]" name="verifyHealthCareButtons_Tc03" duration-ms="32233" started-at="2018-05-11T22:20:46Z" finished-at="2018-05-11T22:21:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHealthCareButtons_Tc03 -->
+      </class> <!-- com.projectexecution.VidalEnrollment_TS_01 -->
+      <class name="com.projectexecution.IntiateBrowser">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.projectexecution.IntiateBrowser@7f63425a]" name="launchBrowser" is-config="true" duration-ms="13630" started-at="2018-05-11T22:19:55Z" finished-at="2018-05-11T22:20:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="f()[pri:0, instance:com.projectexecution.IntiateBrowser@7f63425a]" name="f" duration-ms="2" started-at="2018-05-11T22:20:08Z" finished-at="2018-05-11T22:20:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.projectexecution.IntiateBrowser@7f63425a]" name="closeBrowser" is-config="true" duration-ms="14" started-at="2018-05-11T22:21:18Z" finished-at="2018-05-11T22:21:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.projectexecution.IntiateBrowser -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
